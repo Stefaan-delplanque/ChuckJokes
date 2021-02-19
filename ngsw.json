@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613745278080,
+  "timestamp": 1613745498706,
   "index": "../chuckJokes/index.html",
   "assetGroups": [
     {
@@ -13,6 +13,7 @@
       "urls": [
         "../chuckJokes/favicon.ico",
         "../chuckJokes/index.html",
+        "../chuckJokes/main.0571b3d66e99042444da.js",
         "../chuckJokes/main.f8e23b7f82f6705aed48.js",
         "../chuckJokes/manifest.webmanifest",
         "../chuckJokes/ngsw-worker.js",
@@ -20,6 +21,7 @@
         "../chuckJokes/runtime.0e49e2b53282f40c8925.js",
         "../chuckJokes/safety-worker.js",
         "../chuckJokes/styles.15e2322bde3440f41e47.css",
+        "../chuckJokes/styles.5ad3b52115399d384b64.css",
         "../chuckJokes/worker-basic.min.js"
       ],
       "patterns": [
@@ -74,7 +76,8 @@
     "../chuckJokes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "../chuckJokes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "../chuckJokes/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "../chuckJokes/index.html": "fa20f871a5767cf62c463a03dc4ad5553aeb4d61",
+    "../chuckJokes/index.html": "083cfeb2cab79d01af49ace7a9bd07ba55f11203",
+    "../chuckJokes/main.0571b3d66e99042444da.js": "a2f4eb04c4003d5f092844d89b2e83fdc132983c",
     "../chuckJokes/main.f8e23b7f82f6705aed48.js": "acd28a6da4532067d75897764ad3c2a7e89575a2",
     "../chuckJokes/manifest.webmanifest": "b98c638726e2b153cca03074f9fc6bda2e9e2cb1",
     "../chuckJokes/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
@@ -82,6 +85,7 @@
     "../chuckJokes/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "../chuckJokes/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
     "../chuckJokes/styles.15e2322bde3440f41e47.css": "8b93e756df0b767818466913b8e0ea3b3454ae50",
+    "../chuckJokes/styles.5ad3b52115399d384b64.css": "2d8f7c4f980b0698cca062a31f57d1841da2d80d",
     "../chuckJokes/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
   },
   "navigationUrls": [
