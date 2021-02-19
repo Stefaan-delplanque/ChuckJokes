@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613725050984,
+  "timestamp": 1613743622047,
   "index": "../chuckJokes/index.html",
   "assetGroups": [
     {
@@ -54,8 +54,8 @@
         "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
       ],
       "strategy": "freshness",
-      "maxSize": 50,
-      "maxAge": 7200000,
+      "maxSize": 20,
+      "maxAge": 3600000,
       "timeoutMs": 5000,
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -74,7 +74,7 @@
     "../chuckJokes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "../chuckJokes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "../chuckJokes/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "../chuckJokes/index.html": "e54f78d2bc37dd5a044811d21dc57c6971f9a460",
+    "../chuckJokes/index.html": "f9935cc912ab320e852defdf1c531089448ff4d2",
     "../chuckJokes/main.f8e23b7f82f6705aed48.js": "acd28a6da4532067d75897764ad3c2a7e89575a2",
     "../chuckJokes/manifest.webmanifest": "b98c638726e2b153cca03074f9fc6bda2e9e2cb1",
     "../chuckJokes/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
